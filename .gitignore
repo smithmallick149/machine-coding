@@ -22,3 +22,8 @@ coverage/
 *.xz
 *.swm
 *.swo
+*.cjs
+*.mjs
+yarn-error.log
+package-lock.json
+yarn.lock
