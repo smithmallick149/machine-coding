@@ -1,0 +1,13 @@
+.nav_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: wheat;
+  color: black;
+}
+
+.nav_links {
+  display: flex;
+  gap: 20px;
+}
